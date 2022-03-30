@@ -15,6 +15,8 @@ public class BFS {
 
         //checkFun01(root,0);
         QueToBFS(root);
+        System.out.println("test");
+
 
         return result;
     }
